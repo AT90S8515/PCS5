@@ -1,0 +1,7 @@
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\PCS5\PCS5-Firmware\bin\Debug\PCS5-Firmware.exe.config
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\PCS5\PCS5-Firmware\bin\Debug\PCS5-Firmware.exe
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\PCS5\PCS5-Firmware\bin\Debug\PCS5-Firmware.pdb
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\PCS5\PCS5-Firmware\obj\Debug\PCS5-Firmware.csprojAssemblyReference.cache
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\PCS5\PCS5-Firmware\obj\Debug\PCS5-Firmware.csproj.CoreCompileInputs.cache
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\PCS5\PCS5-Firmware\obj\Debug\PCS5-Firmware.exe
+C:\Users\ngoan\Desktop\lap trinh\phan mem\windows\PCS5\PCS5-Firmware\obj\Debug\PCS5-Firmware.pdb
